@@ -1,2 +1,2 @@
 # Pigeon-Integration-Engine
-A lightweight engine for microservice choreography
+A lightweight engine for microservice choreography, written in Go.
